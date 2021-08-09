@@ -1,0 +1,163 @@
+<style>
+      h1 { text-align:center; }
+    </style>
+<style>
+	h1 {
+	font-size: 80px;
+	}
+   </style>
+<style>
+.debil{
+  cursor: pointer;
+  color: #f66d52;
+  font-size: 5em;
+  font-weight: bold;
+  padding: 25px 25px;
+  text-transform: uppercase;
+  line-height: 1;
+  -webkit-transition: all 0.5s ease;
+          transition: all 0.5s ease;
+}
+.debil:hover{
+  color: #ffa000; 
+  -webkit-text-shadow: 2px 2px 2px #000;
+  -moz-text-shadow: 2px 2px 2px #000;
+      text-shadow: 2px 2px 2px #000;
+}
+</style>
+<style>
+.felix{
+  cursor: pointer;
+  padding: 5px 0px;
+  -webkit-transition: all 0.5s ease;
+          transition: all 0.5s ease;
+}
+</style>
+<style>
+img.felix {
+  -webkit-transition: all 1s ease;
+          transition: all 1s ease;
+}
+img.felix:hover {
+  -webkit-transform: rotate(15deg); 
+          transform: rotate(15deg); 
+}
+</style>
+<style>
+.debil {
+  -webkit-transition: all 1s ease;
+          transition: all 1s ease;
+}
+.debil:hover {
+  -webkit-transform: rotate(15deg); 
+          transform: rotate(15deg); 
+}
+</style>
+<style>
+.felix {
+  background: linear-gradient(to top, rgba(2, 2, 0, 0.85), transparent);
+}
+.felix {
+ width: 400px; height: 500px;
+ -webkit-box-shadow:
+ inset 0 0 50px #000,
+ inset 0 0 50px #000,
+ inset 0 0 50px #000;
+ 
+ -moz-box-shadow:
+ inset 0 0 50px #000,
+ inset 0 0 50px #000,
+ inset 0 0 50px #000;
+ 
+ box-shadow:
+ inset 0 0 50px #000,
+ inset 0 0 50px #000,
+ inset 0 0 50px #000;
+}
+</style>
+<style>
+.debil {
+   font-size:80px;
+   position:absolute;
+   z-index:11;
+}
+.debil {
+  text-align: center;
+}
+</style>
+<style>
+.debil {
+background-image: url("https://pa1.narvii.com/7462/78e09f2ccea4af9108d79fa7cf51b79716195f33r1-640-640_hq.gif");
+padding-left : 32px;
+padding-top : 10px;
+padding-bottom : 10px;
+background-repeat : no-repeat;
+}
+</style>
+<style>
+.foto {
+ width: 300px; height: 400px;
+</style>
+<style>
+.foto{	
+	float:left;
+	margin-left:10px;
+	margin-right:-20px;
+	margin-top:-10px;
+	-webkit-transform:scale(0.6);
+	-webkit-transition-duration: 0.5s;
+}
+.foto:hover{
+    cursor: pointer;
+	-webkit-transform:scale(0.8);
+	-webkit-box-shadow:0px 0px 40px #ccc;
+}	 
+.foto .layer{
+	width: 300px;
+	height: 400px;
+	background-color:#000;
+	position: absolute;	 
+	opacity:0.5;
+	-webkit-transition-duration: 0.8s;
+}
+.foto:hover .layer{
+	width:0%;	
+}
+.foto:hover .layer{
+    height:0%;
+<style>
+  .felix {
+    height: 500px;
+    position: relative;
+    overflow: hidden;
+}
+.felix {
+    position: absolute;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 110%;
+    height: 110%;
+    transition: all 0.1s ease;  
+}
+  </style>
+  <style>
+h1 {
+  display: flex;
+  justify-content: center;
+  }
+
+
+
+
+
+
+  
+    
+   
+  
+   
+   
+   
+ 
+ 
